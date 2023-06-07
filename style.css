@@ -1,0 +1,98 @@
+
+/* Section: Element */
+
+
+body{
+background-color: #061130;
+margin: 0;
+}
+
+main{
+    margin-bottom: 11vh;
+}
+
+header{
+    padding: 30px;
+    padding-top: 20px;
+    margin-bottom: 5vh;
+} 
+
+
+h4{
+    color: #fafd61;
+    font-size: 1em;
+    margin-top: 25px;
+}
+
+h1{
+    color: white;
+    font-weight: 600;
+    font-size: 3em;
+    margin-top: 0;
+}
+
+h2{
+    padding-top: 15px;
+}
+
+footer{
+    background-color: white; 
+    height: 20vh;
+    margin: 0;
+}
+
+
+
+.display-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.display-logo{
+    display: flex;
+    justify-content: space-between;
+    height: 7vh
+}
+
+.chat-button{
+    background-color: #1c4bc4;
+    color: white;
+    padding: 0px 15px;
+    border-radius: 15px;
+}
+
+.header-buttons{
+    color: white;
+    padding: 1px 20px;
+}
+
+.main-paragraph{
+    max-width: 50%;
+}
+
+.main-statement{
+    color: white;
+    max-width: 69%;
+}
+
+.padding-main{
+    padding-left: 150px;
+}
+
+.padding-map{
+    padding-right: 150px;
+}
+
+.footer-links{
+    color: blue;
+    padding: 4em;
+    text-decoration-line: underline;
+}
+
+.footer-end{
+    background-color: #cedaf8;
+    height: 120px;
+    color: black;
+    text-align: center;
+}
